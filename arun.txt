@@ -1,0 +1,10 @@
+	• Deepfake- ai generated/ai manupilated
+	• This article makes a contribution in understanding the landscape of deepfakes, and their detection and generation methods.
+	• Audio deep fake
+	• Different deep fake categories
+	• How created or detected
+	• GANS
+	• CNNs
+	• DNNs
+	• This study about the audio deepfakes
+	• DS audio deepfake, spoofed audio, spoof detection, deepfake detection, deepfake generation, misinformation, cybersecurity, artificial intelligence
